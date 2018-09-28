@@ -1,0 +1,31 @@
+﻿Build started 18-Jun-18 11:49:33 AM.
+     1>Project "G:\Vusial Stdio\ScientificCalculator\ScientificCalculator\ScientificCalculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\Installation\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1098): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1101): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1106): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1107): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1114): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1117): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1122): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1125): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1130): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1133): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1138): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1141): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1146): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1149): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1154): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\vusial stdio\scientificcalculator\scientificcalculator\MyForm.h(1157): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>MyForm.cpp(10): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+       Link:
+         G:\Installation\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Vusial Stdio\ScientificCalculator\Debug\ScientificCalculator.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\ScientificCalculator.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Vusial Stdio\ScientificCalculator\Debug\ScientificCalculator.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         ScientificCalculator.vcxproj -> G:\Vusial Stdio\ScientificCalculator\Debug\ScientificCalculator.exe
+     1>Done Building Project "G:\Vusial Stdio\ScientificCalculator\ScientificCalculator\ScientificCalculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35
